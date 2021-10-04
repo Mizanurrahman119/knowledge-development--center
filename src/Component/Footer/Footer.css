@@ -1,0 +1,11 @@
+.footer-container{
+    padding-top: 15px;
+    background-color: rgb(149, 125, 192);
+    margin: 10px;
+    padding-bottom: 10px;
+}
+.btn-footer{
+    padding: 10px;
+    text-decoration: none;
+    color: linen;
+}

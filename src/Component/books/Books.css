@@ -1,0 +1,11 @@
+.book-content{
+
+}
+
+.books-details{
+    border: 2px solid firebrick;
+    margin-left: 40px;
+    margin-right: 40px;
+    padding-top: 10px;
+    background-color: lightgrey;
+}
