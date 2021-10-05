@@ -11,7 +11,6 @@ const Home = () => {
     },[])
     return (
         <div className="home-container">
-            {/* <h4>This is Home:{books.length}</h4> */}
             {
                 books.map(book => <Book book={book}></Book>)
             }
