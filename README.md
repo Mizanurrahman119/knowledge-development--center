@@ -1,11 +1,16 @@
 # Website Name : Knowledge Development Center
-### live link
-[website live link](https://epic-stonebraker-7c90de.netlify.app/).
-#### Educational help center
+
+### live link:https://angry-raman-00a03f.netlify.app/
+
+
+## Showing this website:
+#### 1. Click the Home button Show home page
+#### 2. Click the Service button to gets some books
+#### 3. Click show up button showing show up
+
  
-<!-- # Getting Started with Create React App
-
-
+ 
+  # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
@@ -75,6 +80,3 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/d
 ### `npm run build` fails to minify
 
 This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
-
-
- -->
